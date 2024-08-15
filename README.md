@@ -1,5 +1,4 @@
-<h1>Hi, I'm Sananda! <br/><a href="https://github.com/SanandaMerrick">Security Engineer</a>, <a href="https://www.linkedin.com/in/sanandamerrick/">Software Engineer</a>
-
+<h1>Hi, I'm Sananda! <br/><a href="https://www.linkedin.com/in/sanandamerrick/">Security and Software Engineer</a>
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
