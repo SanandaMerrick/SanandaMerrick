@@ -2,6 +2,7 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>Microsoft Azure/Sentinel Lab</b>
+- <b>https://github.com/SanandaMerrick/Cyber_AzureSOC</b>
 
 
 
