@@ -1,8 +1,9 @@
 <h1>Hi, I'm Sananda! <br/><a href="https://www.linkedin.com/in/sanandamerrick/">Security and Software Engineer</a>
+  
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-- <b>Microsoft Azure/Sentinel Lab</b>
-  - [https://github.com/SanandaMerrick/Cyber_AzureSOC]
+- <b>Microsoft Azure Projects</b>
+  - [Creating Live SOC in Microsoft Sentinel](https://github.com/SanandaMerrick/Cyber_AzureSOC)
 
 
 
